@@ -1,12 +1,12 @@
 ### Hi there 👋
 ## I'm Rayan Fernandes
 
-* 🔭 I’m currently working on > `Grocery Note App`
-- 🌱 I’m currently learning > `Android Development`
-- 👯 I’m looking to collaborate on > `Python based backend tools`
-- 🤔 I’m looking for help with > `Frontend dev`
-- 💬 Ask me about > `Backend development`
-- 📫 How to reach me: > [rayanfer32.github.io](https://rayanfer32.github.io)
+- 🔭 I’m currently working on : `Grocery Note App`
+- 🌱 I’m currently learning : `Android Development`
+- 👯 I’m looking to collaborate on : `Python based backend tools`
+- 🤔 I’m looking for help with : `Frontend dev`
+- 💬 Ask me about : `Backend development`
+- 📫 How to reach me: : [rayanfer32.github.io](https://rayanfer32.github.io)
 - ⚡ Fun fact: ... `Sometimes i dream code!`
 
 Git stats                  |  Languages Used
