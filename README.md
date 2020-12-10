@@ -29,6 +29,7 @@
 - 📫 How to reach me: : [rayanfer32.github.io](https://rayanfer32.github.io)
 - ⚡ Fun fact: ... `Sometimes i dream code!`
 
-Git stats                  |  Languages Used
-:-------------------------:|:-------------------------:
-![Github readme stats](https://github-readme-stats-ssggoku.vercel.app/api/?username=rayanfer32&custom_title=Rayan's%20Github%20Stats&show_icons=true&layout=default&hide_border=true&text_color=3E4034&title_color=262621&icon_color=A5A69C&card_width=100&hide=contribs&count_private=true&hide_title=true&include_all_commits=true)  |  ![](https://github-readme-stats-ssggoku.vercel.app/api/top-langs/?username=rayanfer32&layout=compact)
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+![](https://github-readme-stats-ssggoku.vercel.app/api/?username=rayanfer32&custom_title=Rayan's%20Github%20Stats&show_icons=true&layout=default)  ![](https://github-readme-stats-ssggoku.vercel.app/api/top-langs/?username=rayanfer32&layout=compact)
