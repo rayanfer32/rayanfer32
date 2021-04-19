@@ -2,6 +2,7 @@
 ## I'm Rayan Fernandes
 `Progamming and developing useful systems!`
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frayanfer32&count_bg=%2379C83D&title_bg=%2312490D&icon=awesomelists.svg&icon_color=%23E1E1E1&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 #### I love to code in:  
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
