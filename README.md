@@ -1,10 +1,6 @@
 ### Hi there 👋
 ## I'm Rayan Fernandes
-`I code, to Breathe life into Ideas`
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frayanfer32&count_bg=%2379C83D&title_bg=%2312490D&icon=awesomelists.svg&icon_color=%23E1E1E1&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-#### I love to code in:  
+`I write code, a lot! in`  
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -53,8 +49,5 @@
 - 💬 Ask me about : `Backend Stuff`
 - 📫 How to reach me: : [rayanfer32.github.io](https://rayanfer32.github.io)
 - ⚡ Fun fact: ... `Sometimes i dream code.`
-
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
-![](https://github-readme-stats-ssggoku.vercel.app/api/?username=rayanfer32&custom_title=Rayan's%20Github%20Stats&show_icons=true&layout=default)  ![](https://github-readme-stats-ssggoku.vercel.app/api/top-langs/?username=rayanfer32&layout=compact)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frayanfer32&count_bg=%2379C83D&title_bg=%2312490D&icon=awesomelists.svg&icon_color=%23E1E1E1&title=Visits&edge_flat=true)](https://hits.seeyoufarm.com)
+![](https://github-readme-stats-ssggoku.vercel.app/api/?username=rayanfer32&custom_title=Rayan's%20Github%20Stats&show_icons=true&layout=default)  
