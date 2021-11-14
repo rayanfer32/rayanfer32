@@ -41,7 +41,7 @@
 <code><img height="48" src="https://developer.android.com/studio/images/studio-icon.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-- 🌱 I’m currently learning : `React Native`
+- 🌱 I’m currently learning : `Nextjs`
 - 👯 I’m looking to collaborate on : `Python based backend utilities`
 - 🤔 I’m looking for help with : `UI/UX design`
 - 💬 Ask me about : `Backend Stuff`
