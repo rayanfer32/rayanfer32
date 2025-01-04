@@ -41,11 +41,11 @@
 <code><img height="48" src="https://developer.android.com/studio/images/studio-icon.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-- 🌱 I’m currently learning : `Nextjs`
-- 👯 I’m looking to collaborate on : `Python based backend utilities`
+- 🌱 I’m currently learning : `Full Stack`
+- 👯 I’m looking to collaborate on : `Frontend and Utilities`
 - 🤔 I’m looking for help with : `UI/UX design`
-- 💬 Ask me about : `Backend Stuff`
+- 💬 Ask me about : `Frontend and app development`
 - 📫 How to reach me: : [rayanfer32.github.io](https://rayanfer32.github.io)
-- ⚡ Fun fact: ... `Sometimes i dream code.`
+- ⚡ Fun fact: ... `Focusing on building strength and staying fit.`
 
 ![](https://github-readme-stats-ssggoku.vercel.app/api/?username=rayanfer32&custom_title=Rayan's%20Github%20Stats&show_icons=true&layout=default)  
