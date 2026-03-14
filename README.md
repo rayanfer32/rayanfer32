@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning : `Mobile App development with React Native`
 - 👯 I’m looking to collaborate on : `Frontend and Utilities`
-- 🤔 I’m looking for help with : `UI/UX design`
-- 💬 Ask me about : `Web and Hybrid Mobile App development`
+- 🤔 I’m looking for help with : `UI/UX design and backend`
+- 💬 Ask me about : `Web and Hybrid Mobile App development / Agentic development`
 - 📫 How to reach me: : [rayanfer32.github.io](https://rayanfer32.github.io)
-- ⚡ Fun fact: ... `When i'm not coding , I'm usually enjoying playing instruments or at the gym 💪`
+- ⚡ Fun fact: ... `When i'm not coding , I'm jamming with my piano or guitar or at the gym 💪`
